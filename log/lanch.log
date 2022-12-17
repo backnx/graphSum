@@ -1,0 +1,1 @@
+./scripts/predict_graphsum_local_multinews.sh: line 14: /root/liwei85/envs/paddle1.6_py3.6/bin/python3: No such file or directory
